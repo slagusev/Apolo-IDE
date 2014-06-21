@@ -1,11 +1,13 @@
 Apolo-IDE
 =========
 
+(It's not being developed)
 A powerful and Open Source Lua IDE
 
 
 A simple and powerful Lua IDE. It still under development in the beta version, but It is useful.
 If you can, contribute with us.
+
 
 Requirements
 ============
